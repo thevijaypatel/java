@@ -1,0 +1,10 @@
+********  ****Airplane ****  *Management*  ***System****  
+ Ticket | NAME        | Seat no     |     Date     |  
+ 
+970548  | vijat       | 56          | 5-10-1998    | 
+925555  | tushar      | 11          | 15-6-1999    | 
+545454  | Hitesh      | 34          | 28-11-1998   | 
+5656    | mishra      | 10          | 5-10-1995    | 
+1278    | vardaan     | 1           | 14-3-1889    | 
+987542  | Tushar      | 17          | 2-3-1990     | 
+151515  | Vidushi     | 14          | 05-11-1997   | 
